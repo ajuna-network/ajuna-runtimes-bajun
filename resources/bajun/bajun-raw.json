@@ -4,8 +4,8 @@
   "chainType": "Live",
   "bootNodes": [
     "/dns4/node-7135147284622688256-0.p2p.onfinality.io/tcp/21307/ws/p2p/12D3KooWKioFAKyjcCVr6G5pXBEmEYnQdzmKYHEK7Enr3hbgbwuD",
-    "/dns/rpc-parachain.bajun.network/tcp/30332/p2p/12D3KooWPdaBqPCELkSDUsfnHbLoRhXRgn4AD5m6axVaeExWrDBa",
-    "/dns/rpc-parachain.bajun.network/tcp/30333/ws/p2p/12D3KooWPdaBqPCELkSDUsfnHbLoRhXRgn4AD5m6axVaeExWrDBa"
+    "/dns/178.211.139.159/tcp/23903/p2p/12D3KooWNh54S5HHKiSojsEfkogZsHqJrxqsi6pthbzV4ab1BaZp",
+    "/dns/178.211.139.159/tcp/23904/ws/p2p/12D3KooWNh54S5HHKiSojsEfkogZsHqJrxqsi6pthbzV4ab1BaZp"
   ],
   "telemetryEndpoints": null,
   "protocolId": "bajun-kusama",
