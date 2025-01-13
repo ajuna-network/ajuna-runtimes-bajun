@@ -699,7 +699,7 @@ dependencies = [
 
 [[package]]
 name = "bajun-node"
-version = "0.8.1"
+version = "0.8.2"
 dependencies = [
  "async-trait",
  "bajun-runtime",
@@ -777,7 +777,7 @@ dependencies = [
 
 [[package]]
 name = "bajun-runtime"
-version = "0.8.1"
+version = "0.8.2"
 dependencies = [
  "assets-common",
  "cumulus-pallet-aura-ext",

@@ -217,7 +217,7 @@ pub const VERSION: RuntimeVersion = RuntimeVersion {
 	spec_name: create_runtime_str!("bajun"),
 	impl_name: create_runtime_str!("bajun"),
 	authoring_version: 1,
-	spec_version: 801,
+	spec_version: 802,
 	impl_version: 0,
 	apis: RUNTIME_API_VERSIONS,
 	transaction_version: 1,

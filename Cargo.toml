@@ -3,7 +3,7 @@ authors    = [ "Ajuna Network <https://github.com/ajuna-network>" ]
 edition    = "2021"
 homepage   = "https://ajuna.io"
 repository = "https://github.com/ajuna-network/Ajuna"
-version    = "0.8.1"
+version    = "0.8.2"
 
 [workspace]
 resolver = "2"
